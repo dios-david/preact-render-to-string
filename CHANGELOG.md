@@ -1,5 +1,13 @@
 # preact-render-to-string
 
+## 6.3.2
+
+### Patch Changes
+
+- [#326](https://github.com/preactjs/preact-render-to-string/pull/326) [`87d8c21`](https://github.com/preactjs/preact-render-to-string/commit/87d8c21e61c8fb9c1ec9d8d69a826bfb3e5db9af) Thanks [@Geo25rey](https://github.com/Geo25rey)! - fix external type definitions of `renderToString`
+
+* [#329](https://github.com/preactjs/preact-render-to-string/pull/329) [`0a0d0ce`](https://github.com/preactjs/preact-render-to-string/commit/0a0d0ceba22d89fa82a177305c7e44aa22202398) Thanks [@acelaya](https://github.com/acelaya)! - Remove incorrect second default export from jsx.d.ts
+
 ## 6.3.1
 
 ### Patch Changes
